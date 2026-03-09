@@ -23,7 +23,8 @@ BOOKS = [
     Book(3, 'Master Endpoints', 'codingwihroby', 'A awesome book!', 5),
     Book(4, 'HP1', 'Author 1', 'Book Description', 2),
     Book(5, 'HP2', 'Author 2', 'Book Description', 3),
-    Book(6, 'HP3', 'Author 3', 'Book Description', 1)
+    Book(6, 'HP3', 'Author 3', 'Book Description', 1),
+    Book(7, 'HP4', 'Author 4', 'Book Description', 2),
 ]
 
 @app.get("/books")
